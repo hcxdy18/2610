@@ -462,7 +462,7 @@ EDGE_HOSTS = [
         "EDGE_HOSTS",
         "coreweave.com:443.www.blibli.com:443,www.sage.com:443,www.broadcom.com:443,avps.cheng2001.top:443r,www.mastervolt.com:443,www.zendesk.com:443,www.zendesk.com:443,spring.io:443,spring.io:443,staticdelivery.nexusmods.com:443
     ,www.deepl.com:443,ikankeji.com:443,saas.sin.fan:443,academy.7shifts.com:443,www.vmware.com:443,cf.877774.xyz:8443,cf.877774.xyz:2083,kickstarter.com:2087,ahrefs.com:2087,cf.1o.ee:2096,"
-        "cdn.cnno.de:443,saas.sin.fan:443,cf.777791.xyz:443",
+        "cdn.555586.xyz:443,www.xflash.vip:443,www.visa.com.hk:443",
     ).split(",")
     if h.strip()
 ]
